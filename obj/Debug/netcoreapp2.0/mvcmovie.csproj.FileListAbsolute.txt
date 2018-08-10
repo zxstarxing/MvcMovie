@@ -1,0 +1,4 @@
+E:\github\mvcmovie\obj\Debug\netcoreapp2.0\mvcmovie.csprojAssemblyReference.cache
+E:\github\mvcmovie\obj\Debug\netcoreapp2.0\mvcmovie.csproj.CoreCompileInputs.cache
+E:\github\mvcmovie\obj\Debug\netcoreapp2.0\mvcmovie.AssemblyInfoInputs.cache
+E:\github\mvcmovie\obj\Debug\netcoreapp2.0\mvcmovie.AssemblyInfo.cs
